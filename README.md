@@ -1,4 +1,4 @@
-# 🧠 OntoGraph Lab — Ontologias e Grafos de Conhecimento
+# 🧠 Ontologias e Web Semântica
 
 Repositório dedicado ao armazenamento, organização e versionamento de materiais teóricos, ontologias, modelos conceituais e projetos experimentais voltados à representação de conhecimento e à aprendizagem baseada em ontologias e grafos.
 
